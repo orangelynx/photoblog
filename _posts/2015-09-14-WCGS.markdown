@@ -1,4 +1,0 @@
----
-title: "DrupalCon 2015 Barcelona: the Web Chefs go to Germany and Spain"
-location: Barcelona, Spain
----

@@ -1,4 +1,0 @@
----
-title: Tulsa Weekend
-location: Tulsa, Oklahoma
----

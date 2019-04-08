@@ -1,4 +1,0 @@
----
-title: Softball Tournament
-location: Austin, Texas
----

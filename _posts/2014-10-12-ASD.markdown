@@ -1,4 +1,0 @@
----
-title: Dogsitting
-location: Austin, Texas
----

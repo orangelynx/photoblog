@@ -1,4 +1,0 @@
----
-title: Halloween
-location: Tulsa, Oklahoma
----

@@ -1,4 +1,0 @@
----
-title: Springtime in the Windy City
-location: Chicago, Illinois
----
