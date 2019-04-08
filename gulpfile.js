@@ -28,11 +28,9 @@ const gulp = require('gulp-help')(require('gulp'), {
 const gutil = require('gulp-util');
 
 const autoprefixer = require('gulp-autoprefixer');
-const awspublish = require('gulp-awspublish');
 const cleanCSS = require('gulp-clean-css');
 const concat = require('gulp-concat');
 const eslint = require('gulp-eslint');
-const exec = require('child_process').exec;
 const exif = require('exif-parser');
 const fs = require('fs');
 const glob = require('glob');
