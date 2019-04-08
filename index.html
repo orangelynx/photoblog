@@ -24,9 +24,9 @@ nowrap: 1
           {% endcomment %}
           {% for photo in site.data.index[gallery].contents %}
             {% if photo.hero %}
-              <img src="/photo/medium/{{ gallery }}/{{ photo.filename }}" alt="{{ post.title | xml_escape }}" />
+              <img src="{{ site.baseurl }}/photo/medium/{{ gallery }}/{{ photo.filename }}" alt="{{ post.title | xml_escape }}" />
               <div class="shadow">
-                <div style='background-image: url("/photo/medium/{{ gallery }}/{{ photo.filename }}");' class="shadow-image"></div>
+                <div style='background-image: url("{{ site.baseurl }}/photo/medium/{{ gallery }}/{{ photo.filename }}");' class="shadow-image"></div>
               </div>
             {% endif %}
           {% endfor %}

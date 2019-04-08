@@ -61,5 +61,5 @@ module.exports = {
     "instagram-blue": [".instagram:hover"],
   },
 
-  compressPNG: true
+  compressPNG: false
 };
