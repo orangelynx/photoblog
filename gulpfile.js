@@ -60,14 +60,6 @@ const yaml = require('js-yaml');
 |_|
 */
 
-gulp.task('fetch-source', 'Fetch original photos from S3', (cb) => {
-  exec('s3cmd get --recursive --skip-existing s3://tsmithphotos-source/ source/Photography/', {maxBuffer: 500 * 1024}, (err, stdout, stderr) => {
-    gutil.log(stdout);
-    gutil.log(stderr);
-    cb(err);
-  });
-});
-
 // Containers for image data processing which is kicked off by gulp
 // but aren't actually gulp tasks. Adapted from http://stackoverflow.com/a/18934385
 // We don't need a recursive function since we know the structure.
@@ -352,39 +344,8 @@ gulp.task('build', 'Run all site-generating tasks: sass, js, graphics, icons, ht
   runSequence(['sass', 'js', 'graphics', 'icons', 'htaccess'], 'jekyll', cb);
 });
 
-gulp.task('publish-s3', 'Sync the site to S3', (cb) => {
-  // create a new publisher using S3 options
-  // http://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/S3.html#constructor-property
-  var publisher = awspublish.create({
-    region: 'us-west-1',
-    params: {
-      Bucket: 'tsmithphotos'
-    }
-  });
-
-  // define custom headers
-  var headers = {
-    'Cache-Control': 'max-age=2592000, no-transform, public'
-  };
-
-  // @TODO: Uhhh, I wrote a lot of htaccess files for this that aren't needed
-  // on S3. I could drop that stuff.
-  return gulp.src(['./_site/**/*.*', '!./_site/**/.htaccess'])
-    // publisher will add Content-Length, Content-Type and headers specified above
-    // If not specified it will set x-amz-acl to public-read by default
-    .pipe(publisher.publish(headers))
-
-    .pipe(publisher.sync())
-
-    // create a cache file to speed up consecutive uploads
-    .pipe(publisher.cache())
-
-     // print upload updates to console
-    .pipe(awspublish.reporter());
-});
-
 gulp.task('publish', 'Build the site and publish to S3', (cb) => {
-  runSequence('update', 'build', 'publish-s3', cb);
+  runSequence('update', 'build', cb);
 });
 
 /*
