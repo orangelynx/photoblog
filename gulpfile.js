@@ -118,10 +118,7 @@ const walkPhotos = (path, index) => {
         filename: file,
         width: dimensions.width || null,
         height: dimensions.height || null,
-        // The D7000 writes 'NIKON CORPORATION / NIKON D7000' across these fields.
-        // The X-E1 writes 'FUJIFILM / XE-1'. So we do this stupid thing to normalize
-        // as 'Make Model' which is what they should be in the first place...
-        camera: [(exifResult.tags.Make.split(' ')[0] || null), (exifResult.tags.Model.split(' ').pop()) || null].join(' '),
+        camera: [exifResult.tags.Make || null, exifResult.tags.Model || null].join(' '),
         lens: exifResult.tags.LensModel || null,
         focal: exifResult.tags.FocalLength || null,
         aperture: exifResult.tags.FNumber || null,
