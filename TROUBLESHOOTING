@@ -1,0 +1,1 @@
+- Check that _data/index.yml is a symbolic link as intended and not a normal file.
