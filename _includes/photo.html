@@ -13,7 +13,7 @@
 
 
 <figure class="photo-block">
-  <img src="/photo/medium/{{ gallery }}/{{ include.src }}" />
+    <img src="{{ site.baseurl }}/photo/medium/{{ gallery }}/{{ include.src }}" />
   <figcaption>
     {% if photo.title %}<span class="title">{{ photo.title }}</span>{% endif %}
     <span class="camera">{{ photo.camera }} with {{ photo.lens }}</span>

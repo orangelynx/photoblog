@@ -25,8 +25,8 @@ photoswipe: true
       {% for photo in site.data.index[gallery].contents %}
         {% if photo.hero %}
           <img
-            src="/photo/medium/{{ gallery }}/{{ photo.filename }}"
-            data-big="/photo/original/{{ gallery }}/{{ photo.filename }}"
+         src="{{ site.baseurl }}/photo/medium/{{ gallery }}/{{ photo.filename }}"
+         data-big="{{ site.baseurl }}/photo/original/{{ gallery }}/{{ photo.filename }}"
             class="hero-attach-{% if photo.hero_attachment %}{{ photo.hero_attachment }}{% else %}center{% endif %}"
             width="600" height="{{ photo.height | times: 600 | divided_by: photo.width }}" />
         {% endif %}
@@ -47,15 +47,15 @@ photoswipe: true
         <ul>
           {% for photo in site.data.index[gallery].contents %}
             <li>
-              <a href="/photo/original/{{ gallery }}/{{ photo.filename }}"
+                <a href="{{ site.baseurl }}/photo/original/{{ gallery }}/{{ photo.filename }}"
                  data-size="{{ photo.width}}x{{ photo.height }}"
                  data-camera="{{ photo.camera }} with {{ photo.lens }}"
                  data-exposure="ISO{{ photo.iso }} {{ photo.shutter }} @ f/{{ photo.aperture }} {{ photo.focal }}mm"
                  >
                 {% if forloop.index < 7 %}
-                  <img src="/photo/thumb/{{ gallery }}/{{ photo.filename }}" width="200" height="200" alt="{{ photo.title }}" />
+                <img src="{{ site.baseurl }}/photo/thumb/{{ gallery }}/{{ photo.filename }}" width="200" height="200" alt="{{ photo.title }}" />
                 {% else %}
-                  <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/photo/thumb/{{ gallery }}/{{ photo.filename }}" width="200" height="200" alt="{{ photo.title }}" />
+                <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="{{ site.baseurl }}/photo/thumb/{{ gallery }}/{{ photo.filename }}" width="200" height="200" alt="{{ photo.title }}" />
                 {% endif %}
               </a>
             </li>

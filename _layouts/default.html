@@ -19,9 +19,9 @@ layout: compress
       {% include photoswipe-container.html %}
     {% endif %}
 
-    <script defer src="/js/all.js"></script>
+    <script defer src="{{ site.baseurl }}/js/all.js"></script>
     {% if page.photoswipe %}
-      <script defer src="/js/photoswipe.all.js"></script>
+      <script defer src="{{ site.baseurl }}/js/photoswipe.all.js"></script>
     {% endif %}
 
     {% include google-analytics.html %}
