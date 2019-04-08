@@ -1,12 +1,12 @@
 {
-  "name": "tsmithphotos",
-  "version": "1.0.0",
-  "description": "The source repository for tsmithphotos.com, the photography hobby site of Taylor Smith.",
+  "name": "orangelynxphotos",
+  "version": "1.1.0",
+  "description": "The source repository for Orangelynx' photoblog, a blog based on a site by Taylor Smith (https://www.tsmithcreative.com/).",
   "repository": {
     "type": "git",
-    "url": "ssh://git@kaa.tsmithcreative.com/project/tsmithphotos.git"
+    "url": "ssh://git@github.com:orangelynx/photoblog.git"
   },
-  "author": "Taylor Smith <tsmith@tsmithcreative.com>",
+  "author": "Orangelynx <orangelynx@outlook.de>",
   "license": "UNLICENSED",
   "devDependencies": {
     "breakpoint-sass": "^2.7.0",
