@@ -1,8 +1,8 @@
 # Site settings
-title: Taylor Smith
+title: Maximilian's Travel Blog
 description:
-baseurl: ""
-url: "https://www.tsmithphotos.com"
+baseurl: "/travelblog"
+url: "https://www.orangelynx.net/travelblog"
 
 # Build settings
 markdown: kramdown
