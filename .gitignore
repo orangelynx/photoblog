@@ -6,3 +6,5 @@ _site
 
 # Temp Directories
 .sass-cache
+_posts/
+source/Photography/
