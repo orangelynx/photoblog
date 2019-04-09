@@ -115,6 +115,7 @@
     - filename: viettrip17-012.jpg
       width: 1620
       height: 1080
+      hero: 1
       lens: 10.4-37.1 mm f/1.8-4.9
       focal: 10.4
       aperture: 1.8
@@ -205,7 +206,6 @@
     - filename: viettrip17-021.jpg
       width: 1440
       height: 1080
-      hero: 1
       lens: null
       focal: 4.2
       aperture: 1.7
@@ -523,6 +523,116 @@
       shutter: 1/1600
       iso: 40
       date: 1506931930
+    - filename: viettrip17-060.jpg
+      width: 1440
+      height: 1080
+      lens: null
+      focal: 4.2
+      aperture: 1.7
+      camera: samsung SM-G950F
+      shutter: 1/10
+      iso: 500
+      date: 1506932416
+    - filename: viettrip17-062.jpg
+      width: 1440
+      height: 1080
+      lens: null
+      focal: 4.2
+      aperture: 1.7
+      camera: samsung SM-G950F
+      shutter: 1/10
+      iso: 1000
+      date: 1506932419
+    - filename: viettrip17-061.jpg
+      width: 1440
+      height: 1080
+      lens: null
+      focal: 4.2
+      aperture: 1.7
+      camera: samsung SM-G950F
+      shutter: 1/10
+      iso: 200
+      date: 1506932540
+    - filename: viettrip17-063.jpg
+      width: 1440
+      height: 1080
+      lens: null
+      focal: 4.2
+      aperture: 1.7
+      camera: samsung SM-G950F
+      shutter: 1/35
+      iso: 640
+      date: 1506932726
+    - filename: viettrip17-064.jpg
+      width: 1440
+      height: 1080
+      lens: null
+      focal: 4.2
+      aperture: 1.7
+      camera: samsung SM-G950F
+      shutter: 1/10
+      iso: 250
+      date: 1506932800
+    - filename: viettrip17-065.jpg
+      width: 1440
+      height: 1080
+      lens: null
+      focal: 4.2
+      aperture: 1.7
+      camera: samsung SM-G950F
+      shutter: 1/10
+      iso: 320
+      date: 1506932803
+    - filename: viettrip17-066.jpg
+      width: 1440
+      height: 1080
+      lens: null
+      focal: 4.2
+      aperture: 1.7
+      camera: samsung SM-G950F
+      shutter: 1/10
+      iso: 800
+      date: 1506933029
+    - filename: viettrip17-067.jpg
+      width: 1440
+      height: 1080
+      lens: null
+      focal: 4.2
+      aperture: 1.7
+      camera: samsung SM-G950F
+      shutter: 1/35
+      iso: 800
+      date: 1506933030
+    - filename: viettrip17-059.jpg
+      width: 1440
+      height: 1080
+      lens: null
+      focal: 4.2
+      aperture: 1.7
+      camera: samsung SM-G950F
+      shutter: 1/50
+      iso: 800
+      date: 1506933567
+    - filename: viettrip17-068.jpg
+      width: 1440
+      height: 1080
+      lens: null
+      focal: 4.2
+      aperture: 1.7
+      camera: samsung SM-G950F
+      shutter: 1/10
+      iso: 250
+      date: 1506933574
+    - filename: viettrip17-069.jpg
+      width: 1440
+      height: 1080
+      lens: null
+      focal: 4.2
+      aperture: 1.7
+      camera: samsung SM-G950F
+      shutter: 1/25
+      iso: 250
+      date: 1506933624
     - filename: viettrip17-053.jpg
       width: 1440
       height: 1080
@@ -583,116 +693,6 @@
       shutter: 1/1500
       iso: 40
       date: 1506939036
-    - filename: viettrip17-059.jpg
-      width: 1440
-      height: 1080
-      lens: null
-      focal: 4.2
-      aperture: 1.7
-      camera: samsung SM-G950F
-      shutter: 1/50
-      iso: 800
-      date: 1506933567
-    - filename: viettrip17-060.jpg
-      width: 1440
-      height: 1080
-      lens: null
-      focal: 4.2
-      aperture: 1.7
-      camera: samsung SM-G950F
-      shutter: 1/10
-      iso: 500
-      date: 1506932416
-    - filename: viettrip17-061.jpg
-      width: 1440
-      height: 1080
-      lens: null
-      focal: 4.2
-      aperture: 1.7
-      camera: samsung SM-G950F
-      shutter: 1/10
-      iso: 200
-      date: 1506932540
-    - filename: viettrip17-062.jpg
-      width: 1440
-      height: 1080
-      lens: null
-      focal: 4.2
-      aperture: 1.7
-      camera: samsung SM-G950F
-      shutter: 1/10
-      iso: 1000
-      date: 1506932419
-    - filename: viettrip17-063.jpg
-      width: 1440
-      height: 1080
-      lens: null
-      focal: 4.2
-      aperture: 1.7
-      camera: samsung SM-G950F
-      shutter: 1/35
-      iso: 640
-      date: 1506932726
-    - filename: viettrip17-064.jpg
-      width: 1440
-      height: 1080
-      lens: null
-      focal: 4.2
-      aperture: 1.7
-      camera: samsung SM-G950F
-      shutter: 1/10
-      iso: 250
-      date: 1506932800
-    - filename: viettrip17-065.jpg
-      width: 1440
-      height: 1080
-      lens: null
-      focal: 4.2
-      aperture: 1.7
-      camera: samsung SM-G950F
-      shutter: 1/10
-      iso: 320
-      date: 1506932803
-    - filename: viettrip17-066.jpg
-      width: 1440
-      height: 1080
-      lens: null
-      focal: 4.2
-      aperture: 1.7
-      camera: samsung SM-G950F
-      shutter: 1/10
-      iso: 800
-      date: 1506933029
-    - filename: viettrip17-067.jpg
-      width: 1440
-      height: 1080
-      lens: null
-      focal: 4.2
-      aperture: 1.7
-      camera: samsung SM-G950F
-      shutter: 1/35
-      iso: 800
-      date: 1506933030
-    - filename: viettrip17-068.jpg
-      width: 1440
-      height: 1080
-      lens: null
-      focal: 4.2
-      aperture: 1.7
-      camera: samsung SM-G950F
-      shutter: 1/10
-      iso: 250
-      date: 1506933574
-    - filename: viettrip17-069.jpg
-      width: 1440
-      height: 1080
-      lens: null
-      focal: 4.2
-      aperture: 1.7
-      camera: samsung SM-G950F
-      shutter: 1/25
-      iso: 250
-      date: 1506933624
     - filename: viettrip17-070.jpg
       width: 1440
       height: 1080
@@ -1588,3 +1588,1258 @@
       shutter: 1/1250
       iso: 40
       date: 1517935052
+2017-12-03-JT:
+  title: Japan Trip
+  date: '2017-12-03'
+  contents:
+    - filename: JapanTrip2018-1.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/2200
+      iso: 40
+      date: 1512919643
+    - filename: JapanTrip2018-2.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/1300
+      iso: 40
+      date: 1512919647
+    - filename: JapanTrip2018-3.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/30
+      iso: 250
+      date: 1512927743
+    - filename: JapanTrip2018-4.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/60
+      iso: 640
+      date: 1512933908
+    - filename: JapanTrip2018-5.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/60
+      iso: 64
+      date: 1512934568
+    - filename: JapanTrip2018-6.jpg
+      width: 1080
+      height: 1440
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/2300
+      iso: 40
+      date: 1512995420
+    - filename: JapanTrip2018-7.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/1600
+      iso: 40
+      date: 1512996514
+    - filename: JapanTrip2018-8.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/1600
+      iso: 40
+      date: 1512996897
+    - filename: JapanTrip2018-9.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/1400
+      iso: 40
+      date: 1512997223
+    - filename: JapanTrip2018-10.jpg
+      width: 1682
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/NaN
+      iso: null
+      date: 1512997303
+    - filename: JapanTrip2018-11.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/1700.0000000000002
+      iso: 40
+      date: 1513000510
+    - filename: JapanTrip2018-12.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/3499.9999999999995
+      iso: 40
+      date: 1513003464
+    - filename: JapanTrip2018-13.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/250
+      iso: 40
+      date: 1513007440
+    - filename: JapanTrip2018-14.jpg
+      width: 1403
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/17
+      iso: 200
+      date: 1513008938
+    - filename: JapanTrip2018-15.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/60
+      iso: 50
+      date: 1513009972
+    - filename: JapanTrip2018-16.jpg
+      width: 1080
+      height: 1440
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/150
+      iso: 40
+      date: 1513009977
+    - filename: JapanTrip2018-17.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/2800
+      iso: 40
+      date: 1513076478
+    - filename: JapanTrip2018-18.jpg
+      width: 1080
+      height: 1620
+      camera: SONY DSC-RX100
+      lens: 10.4-37.1 mm f/1.8-4.9
+      focal: 10.4
+      aperture: 5.6
+      shutter: 1/320
+      iso: 125
+      date: 1513079151
+    - filename: JapanTrip2018-19.jpg
+      width: 1080
+      height: 1440
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/350
+      iso: 40
+      date: 1513080870
+    - filename: JapanTrip2018-20.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/1900
+      iso: 40
+      date: 1513081878
+    - filename: JapanTrip2018-21.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/1050
+      iso: 40
+      date: 1513082179
+    - filename: JapanTrip2018-22.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/1400
+      iso: 40
+      date: 1513082442
+    - filename: JapanTrip2018-23.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/2300
+      iso: 40
+      date: 1513082856
+    - filename: JapanTrip2018-24.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/1500
+      iso: 40
+      date: 1513082936
+    - filename: JapanTrip2018-25.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/60
+      iso: 200
+      date: 1513083147
+    - filename: JapanTrip2018-26.jpg
+      width: 1080
+      height: 1440
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/45
+      iso: 640
+      date: 1513083256
+    - filename: JapanTrip2018-27.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/370
+      iso: 40
+      date: 1513084603
+    - filename: JapanTrip2018-28.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/1400
+      iso: 40
+      date: 1513086156
+    - filename: JapanTrip2018-29.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/700
+      iso: 40
+      date: 1513086419
+    - filename: JapanTrip2018-30.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/1500
+      iso: 40
+      date: 1513086696
+    - filename: JapanTrip2018-31.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/50
+      iso: 50
+      date: 1513091744
+    - filename: JapanTrip2018-32.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/50
+      iso: 64
+      date: 1513091934
+    - filename: JapanTrip2018-33.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/100
+      iso: 80
+      date: 1513092621
+    - filename: JapanTrip2018-34.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/1800
+      iso: 40
+      date: 1513161503
+    - filename: JapanTrip2018-35.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/1300
+      iso: 40
+      date: 1513161568
+    - filename: JapanTrip2018-36.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/300
+      iso: 40
+      date: 1513161620
+    - filename: JapanTrip2018-37.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/220
+      iso: 40
+      date: 1513162076
+    - filename: JapanTrip2018-38.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/850.0000000000001
+      iso: 40
+      date: 1513162140
+    - filename: JapanTrip2018-39.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/950
+      iso: 40
+      date: 1513162186
+    - filename: JapanTrip2018-40.jpg
+      width: 2116
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/NaN
+      iso: null
+      date: 1513163310
+      hero: 1
+    - filename: JapanTrip2018-41.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/489.99999999999994
+      iso: 40
+      date: 1513163772
+    - filename: JapanTrip2018-42.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/1900
+      iso: 40
+      date: 1513163774
+    - filename: JapanTrip2018-43.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/800
+      iso: 40
+      date: 1513166014
+    - filename: JapanTrip2018-44.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/2300
+      iso: 40
+      date: 1513174844
+    - filename: JapanTrip2018-45.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/60
+      iso: 800
+      date: 1513198249
+    - filename: JapanTrip2018-46.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/100
+      iso: 50
+      date: 1513254550
+    - filename: JapanTrip2018-47.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/200
+      iso: 40
+      date: 1513255379
+    - filename: JapanTrip2018-48.jpg
+      width: 2027
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/NaN
+      iso: null
+      date: 1513255439
+    - filename: JapanTrip2018-49.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/390
+      iso: 40
+      date: 1513265829
+    - filename: JapanTrip2018-50.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/540
+      iso: 40
+      date: 1513265881
+    - filename: JapanTrip2018-51.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/240
+      iso: 40
+      date: 1513267494
+    - filename: JapanTrip2018-52.jpg
+      width: 1080
+      height: 1440
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/60
+      iso: 200
+      date: 1513272140
+    - filename: JapanTrip2018-53.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/230
+      iso: 40
+      date: 1513272543
+    - filename: JapanTrip2018-54.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/400
+      iso: 40
+      date: 1513334229
+    - filename: JapanTrip2018-55.jpg
+      width: 1995
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/NaN
+      iso: null
+      date: 1513334297
+    - filename: JapanTrip2018-56.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/1100
+      iso: 40
+      date: 1513334383
+    - filename: JapanTrip2018-57.jpg
+      width: 3563
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/NaN
+      iso: null
+      date: 1513334531
+    - filename: JapanTrip2018-58.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/1400
+      iso: 40
+      date: 1513334550
+    - filename: JapanTrip2018-59.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/1100
+      iso: 40
+      date: 1513337111
+    - filename: JapanTrip2018-60.jpg
+      width: 2867
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/NaN
+      iso: null
+      date: 1513337406
+    - filename: JapanTrip2018-61.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/200
+      iso: 40
+      date: 1513337486
+    - filename: JapanTrip2018-62.jpg
+      width: 1080
+      height: 1440
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/50
+      iso: 160
+      date: 1513338250
+    - filename: JapanTrip2018-63.jpg
+      width: 1080
+      height: 1440
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/100
+      iso: 40
+      date: 1513338263
+    - filename: JapanTrip2018-64.jpg
+      width: 1080
+      height: 1440
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/100
+      iso: 64
+      date: 1513338857
+    - filename: JapanTrip2018-65.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/1050
+      iso: 40
+      date: 1513338996
+    - filename: JapanTrip2018-66.jpg
+      width: 1080
+      height: 1440
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/310
+      iso: 40
+      date: 1513339463
+    - filename: JapanTrip2018-67.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/220
+      iso: 40
+      date: 1513339851
+    - filename: JapanTrip2018-68.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/130
+      iso: 40
+      date: 1513344082
+    - filename: JapanTrip2018-69.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/1000
+      iso: 40
+      date: 1513347955
+    - filename: JapanTrip2018-70.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/1100
+      iso: 40
+      date: 1513348003
+    - filename: JapanTrip2018-71.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/640
+      iso: 40
+      date: 1513348077
+    - filename: JapanTrip2018-72.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/60
+      iso: 100
+      date: 1513348878
+    - filename: JapanTrip2018-73.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/50
+      iso: 80
+      date: 1513349043
+    - filename: JapanTrip2018-74.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/640
+      iso: 40
+      date: 1513353899
+    - filename: JapanTrip2018-75.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/100
+      iso: 64
+      date: 1513354101
+    - filename: JapanTrip2018-76.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/290
+      iso: 40
+      date: 1513354696
+    - filename: JapanTrip2018-77.jpg
+      width: 3128
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/NaN
+      iso: null
+      date: 1513355983
+    - filename: JapanTrip2018-79.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/100
+      iso: 50
+      date: 1513356038
+    - filename: JapanTrip2018-78.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/104.99999999999999
+      iso: 40
+      date: 1513356471
+    - filename: JapanTrip2018-80.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/120
+      iso: 320
+      date: 1513364910
+    - filename: JapanTrip2018-81.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/120
+      iso: 50
+      date: 1513420585
+    - filename: JapanTrip2018-82.jpg
+      width: 1080
+      height: 1440
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/120
+      iso: 64
+      date: 1513424292
+    - filename: JapanTrip2018-83.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/100
+      iso: 64
+      date: 1513428574
+    - filename: JapanTrip2018-84.jpg
+      width: 5073
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/NaN
+      iso: null
+      date: 1513433122
+    - filename: JapanTrip2018-85.jpg
+      width: 1703
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/2900
+      iso: 40
+      date: 1513434016
+    - filename: JapanTrip2018-86.jpg
+      width: 1080
+      height: 1440
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/13
+      iso: 200
+      date: 1513441906
+    - filename: JapanTrip2018-87.jpg
+      width: 1080
+      height: 1440
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/60
+      iso: 250
+      date: 1513442545
+    - filename: JapanTrip2018-88.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/2100
+      iso: 40
+      date: 1513505746
+    - filename: JapanTrip2018-89.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/440
+      iso: 40
+      date: 1513513795
+    - filename: JapanTrip2018-90.jpg
+      width: 4074
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/NaN
+      iso: null
+      date: 1513521802
+    - filename: JapanTrip2018-92.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/11
+      iso: 200
+      date: 1513586267
+    - filename: JapanTrip2018-91.jpg
+      width: 1080
+      height: 1440
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/100
+      iso: 80
+      date: 1513587705
+    - filename: JapanTrip2018-93.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/430
+      iso: 40
+      date: 1513607663
+    - filename: JapanTrip2018-94.jpg
+      width: 1080
+      height: 1440
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/50
+      iso: 160
+      date: 1513613023
+    - filename: JapanTrip2018-95.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/50
+      iso: 125
+      date: 1513615515
+    - filename: JapanTrip2018-97.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/50
+      iso: 200
+      date: 1513616126
+    - filename: JapanTrip2018-126.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/20
+      iso: 250
+      date: 1513625596
+    - filename: JapanTrip2018-96.jpg
+      width: 1080
+      height: 1440
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/50
+      iso: 100
+      date: 1513627649
+    - filename: JapanTrip2018-102.jpg
+      width: 1080
+      height: 1440
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/2500
+      iso: 40
+      date: 1513686189
+    - filename: JapanTrip2018-98.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/2500
+      iso: 40
+      date: 1513686503
+    - filename: JapanTrip2018-99.jpg
+      width: 1080
+      height: 1440
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/1700.0000000000002
+      iso: 40
+      date: 1513686714
+    - filename: JapanTrip2018-100.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/6400
+      iso: 40
+      date: 1513687502
+    - filename: JapanTrip2018-101.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/50
+      iso: 125
+      date: null
+    - filename: JapanTrip2018-104.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/7400
+      iso: 40
+      date: 1513699073
+    - filename: JapanTrip2018-103.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/200
+      iso: 40
+      date: 1513699801
+    - filename: JapanTrip2018-105.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/1800
+      iso: 40
+      date: 1513700574
+    - filename: JapanTrip2018-106.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/5000
+      iso: 40
+      date: 1513700711
+    - filename: JapanTrip2018-107.jpg
+      width: 1854
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/NaN
+      iso: null
+      date: 1513770779
+    - filename: JapanTrip2018-108.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/3900
+      iso: 40
+      date: 1513772731
+    - filename: JapanTrip2018-109.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/500
+      iso: 40
+      date: 1513780801
+    - filename: JapanTrip2018-110.jpg
+      width: 1080
+      height: 1440
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/500
+      iso: 40
+      date: 1513780955
+    - filename: JapanTrip2018-112.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/50
+      iso: 80
+      date: 1513781281
+    - filename: JapanTrip2018-111.jpg
+      width: 1080
+      height: 1440
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/100
+      iso: 64
+      date: 1513781588
+    - filename: JapanTrip2018-113.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/100
+      iso: 200
+      date: 1513805403
+    - filename: JapanTrip2018-114.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/100
+      iso: 50
+      date: 1513805524
+    - filename: JapanTrip2018-116.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/3.3333333333333335
+      iso: 400
+      date: 1513809692
+    - filename: JapanTrip2018-117.jpg
+      width: 1080
+      height: 1440
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/7
+      iso: 1600
+      date: 1513812474
+    - filename: JapanTrip2018-118.jpg
+      width: 1080
+      height: 1440
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/540
+      iso: 40
+      date: 1513849846
+    - filename: JapanTrip2018-119.jpg
+      width: 1080
+      height: 1440
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/200
+      iso: 40
+      date: 1513858835
+    - filename: JapanTrip2018-120.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/250
+      iso: 40
+      date: 1513872017
+    - filename: JapanTrip2018-121.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/300
+      iso: 40
+      date: 1513872135
+    - filename: JapanTrip2018-127.jpg
+      width: 1080
+      height: 1440
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/100
+      iso: 320
+      date: 1513889946
+    - filename: JapanTrip2018-123.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/1400
+      iso: 40
+      date: 1513952705
+    - filename: JapanTrip2018-124.jpg
+      width: 1080
+      height: 1440
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/580
+      iso: 40
+      date: 1513954874
+    - filename: JapanTrip2018-125.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/10
+      iso: 400
+      date: 1513968767
