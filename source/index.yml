@@ -523,116 +523,6 @@
       shutter: 1/1600
       iso: 40
       date: 1506931930
-    - filename: viettrip17-060.jpg
-      width: 1440
-      height: 1080
-      lens: null
-      focal: 4.2
-      aperture: 1.7
-      camera: samsung SM-G950F
-      shutter: 1/10
-      iso: 500
-      date: 1506932416
-    - filename: viettrip17-062.jpg
-      width: 1440
-      height: 1080
-      lens: null
-      focal: 4.2
-      aperture: 1.7
-      camera: samsung SM-G950F
-      shutter: 1/10
-      iso: 1000
-      date: 1506932419
-    - filename: viettrip17-061.jpg
-      width: 1440
-      height: 1080
-      lens: null
-      focal: 4.2
-      aperture: 1.7
-      camera: samsung SM-G950F
-      shutter: 1/10
-      iso: 200
-      date: 1506932540
-    - filename: viettrip17-063.jpg
-      width: 1440
-      height: 1080
-      lens: null
-      focal: 4.2
-      aperture: 1.7
-      camera: samsung SM-G950F
-      shutter: 1/35
-      iso: 640
-      date: 1506932726
-    - filename: viettrip17-064.jpg
-      width: 1440
-      height: 1080
-      lens: null
-      focal: 4.2
-      aperture: 1.7
-      camera: samsung SM-G950F
-      shutter: 1/10
-      iso: 250
-      date: 1506932800
-    - filename: viettrip17-065.jpg
-      width: 1440
-      height: 1080
-      lens: null
-      focal: 4.2
-      aperture: 1.7
-      camera: samsung SM-G950F
-      shutter: 1/10
-      iso: 320
-      date: 1506932803
-    - filename: viettrip17-066.jpg
-      width: 1440
-      height: 1080
-      lens: null
-      focal: 4.2
-      aperture: 1.7
-      camera: samsung SM-G950F
-      shutter: 1/10
-      iso: 800
-      date: 1506933029
-    - filename: viettrip17-067.jpg
-      width: 1440
-      height: 1080
-      lens: null
-      focal: 4.2
-      aperture: 1.7
-      camera: samsung SM-G950F
-      shutter: 1/35
-      iso: 800
-      date: 1506933030
-    - filename: viettrip17-059.jpg
-      width: 1440
-      height: 1080
-      lens: null
-      focal: 4.2
-      aperture: 1.7
-      camera: samsung SM-G950F
-      shutter: 1/50
-      iso: 800
-      date: 1506933567
-    - filename: viettrip17-068.jpg
-      width: 1440
-      height: 1080
-      lens: null
-      focal: 4.2
-      aperture: 1.7
-      camera: samsung SM-G950F
-      shutter: 1/10
-      iso: 250
-      date: 1506933574
-    - filename: viettrip17-069.jpg
-      width: 1440
-      height: 1080
-      lens: null
-      focal: 4.2
-      aperture: 1.7
-      camera: samsung SM-G950F
-      shutter: 1/25
-      iso: 250
-      date: 1506933624
     - filename: viettrip17-053.jpg
       width: 1440
       height: 1080
@@ -693,6 +583,116 @@
       shutter: 1/1500
       iso: 40
       date: 1506939036
+    - filename: viettrip17-059.jpg
+      width: 1440
+      height: 1080
+      lens: null
+      focal: 4.2
+      aperture: 1.7
+      camera: samsung SM-G950F
+      shutter: 1/50
+      iso: 800
+      date: 1506933567
+    - filename: viettrip17-060.jpg
+      width: 1440
+      height: 1080
+      lens: null
+      focal: 4.2
+      aperture: 1.7
+      camera: samsung SM-G950F
+      shutter: 1/10
+      iso: 500
+      date: 1506932416
+    - filename: viettrip17-061.jpg
+      width: 1440
+      height: 1080
+      lens: null
+      focal: 4.2
+      aperture: 1.7
+      camera: samsung SM-G950F
+      shutter: 1/10
+      iso: 200
+      date: 1506932540
+    - filename: viettrip17-062.jpg
+      width: 1440
+      height: 1080
+      lens: null
+      focal: 4.2
+      aperture: 1.7
+      camera: samsung SM-G950F
+      shutter: 1/10
+      iso: 1000
+      date: 1506932419
+    - filename: viettrip17-063.jpg
+      width: 1440
+      height: 1080
+      lens: null
+      focal: 4.2
+      aperture: 1.7
+      camera: samsung SM-G950F
+      shutter: 1/35
+      iso: 640
+      date: 1506932726
+    - filename: viettrip17-064.jpg
+      width: 1440
+      height: 1080
+      lens: null
+      focal: 4.2
+      aperture: 1.7
+      camera: samsung SM-G950F
+      shutter: 1/10
+      iso: 250
+      date: 1506932800
+    - filename: viettrip17-065.jpg
+      width: 1440
+      height: 1080
+      lens: null
+      focal: 4.2
+      aperture: 1.7
+      camera: samsung SM-G950F
+      shutter: 1/10
+      iso: 320
+      date: 1506932803
+    - filename: viettrip17-066.jpg
+      width: 1440
+      height: 1080
+      lens: null
+      focal: 4.2
+      aperture: 1.7
+      camera: samsung SM-G950F
+      shutter: 1/10
+      iso: 800
+      date: 1506933029
+    - filename: viettrip17-067.jpg
+      width: 1440
+      height: 1080
+      lens: null
+      focal: 4.2
+      aperture: 1.7
+      camera: samsung SM-G950F
+      shutter: 1/35
+      iso: 800
+      date: 1506933030
+    - filename: viettrip17-068.jpg
+      width: 1440
+      height: 1080
+      lens: null
+      focal: 4.2
+      aperture: 1.7
+      camera: samsung SM-G950F
+      shutter: 1/10
+      iso: 250
+      date: 1506933574
+    - filename: viettrip17-069.jpg
+      width: 1440
+      height: 1080
+      lens: null
+      focal: 4.2
+      aperture: 1.7
+      camera: samsung SM-G950F
+      shutter: 1/25
+      iso: 250
+      date: 1506933624
     - filename: viettrip17-070.jpg
       width: 1440
       height: 1080
@@ -2363,16 +2363,6 @@
       shutter: 1/NaN
       iso: null
       date: 1513355983
-    - filename: JapanTrip2018-79.jpg
-      width: 1440
-      height: 1080
-      camera: samsung SM-G950F
-      lens: Samsung Galaxy S8 Rear Camera
-      focal: 4.2
-      aperture: 1.7
-      shutter: 1/100
-      iso: 50
-      date: 1513356038
     - filename: JapanTrip2018-78.jpg
       width: 1440
       height: 1080
@@ -2383,6 +2373,16 @@
       shutter: 1/104.99999999999999
       iso: 40
       date: 1513356471
+    - filename: JapanTrip2018-79.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/100
+      iso: 50
+      date: 1513356038
     - filename: JapanTrip2018-80.jpg
       width: 1440
       height: 1080
@@ -2493,16 +2493,6 @@
       shutter: 1/NaN
       iso: null
       date: 1513521802
-    - filename: JapanTrip2018-92.jpg
-      width: 1440
-      height: 1080
-      camera: samsung SM-G950F
-      lens: Samsung Galaxy S8 Rear Camera
-      focal: 4.2
-      aperture: 1.7
-      shutter: 1/11
-      iso: 200
-      date: 1513586267
     - filename: JapanTrip2018-91.jpg
       width: 1080
       height: 1440
@@ -2513,6 +2503,16 @@
       shutter: 1/100
       iso: 80
       date: 1513587705
+    - filename: JapanTrip2018-92.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/11
+      iso: 200
+      date: 1513586267
     - filename: JapanTrip2018-93.jpg
       width: 1440
       height: 1080
@@ -2543,26 +2543,6 @@
       shutter: 1/50
       iso: 125
       date: 1513615515
-    - filename: JapanTrip2018-97.jpg
-      width: 1440
-      height: 1080
-      camera: samsung SM-G950F
-      lens: Samsung Galaxy S8 Rear Camera
-      focal: 4.2
-      aperture: 1.7
-      shutter: 1/50
-      iso: 200
-      date: 1513616126
-    - filename: JapanTrip2018-126.jpg
-      width: 1440
-      height: 1080
-      camera: samsung SM-G950F
-      lens: Samsung Galaxy S8 Rear Camera
-      focal: 4.2
-      aperture: 1.7
-      shutter: 1/20
-      iso: 250
-      date: 1513625596
     - filename: JapanTrip2018-96.jpg
       width: 1080
       height: 1440
@@ -2573,16 +2553,16 @@
       shutter: 1/50
       iso: 100
       date: 1513627649
-    - filename: JapanTrip2018-102.jpg
-      width: 1080
-      height: 1440
+    - filename: JapanTrip2018-97.jpg
+      width: 1440
+      height: 1080
       camera: samsung SM-G950F
       lens: Samsung Galaxy S8 Rear Camera
       focal: 4.2
       aperture: 1.7
-      shutter: 1/2500
-      iso: 40
-      date: 1513686189
+      shutter: 1/50
+      iso: 200
+      date: 1513616126
     - filename: JapanTrip2018-98.jpg
       width: 1440
       height: 1080
@@ -2623,16 +2603,16 @@
       shutter: 1/50
       iso: 125
       date: null
-    - filename: JapanTrip2018-104.jpg
-      width: 1440
-      height: 1080
+    - filename: JapanTrip2018-102.jpg
+      width: 1080
+      height: 1440
       camera: samsung SM-G950F
       lens: Samsung Galaxy S8 Rear Camera
       focal: 4.2
       aperture: 1.7
-      shutter: 1/7400
+      shutter: 1/2500
       iso: 40
-      date: 1513699073
+      date: 1513686189
     - filename: JapanTrip2018-103.jpg
       width: 1440
       height: 1080
@@ -2643,6 +2623,16 @@
       shutter: 1/200
       iso: 40
       date: 1513699801
+    - filename: JapanTrip2018-104.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/7400
+      iso: 40
+      date: 1513699073
     - filename: JapanTrip2018-105.jpg
       width: 1440
       height: 1080
@@ -2703,16 +2693,6 @@
       shutter: 1/500
       iso: 40
       date: 1513780955
-    - filename: JapanTrip2018-112.jpg
-      width: 1440
-      height: 1080
-      camera: samsung SM-G950F
-      lens: Samsung Galaxy S8 Rear Camera
-      focal: 4.2
-      aperture: 1.7
-      shutter: 1/50
-      iso: 80
-      date: 1513781281
     - filename: JapanTrip2018-111.jpg
       width: 1080
       height: 1440
@@ -2723,6 +2703,16 @@
       shutter: 1/100
       iso: 64
       date: 1513781588
+    - filename: JapanTrip2018-112.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/50
+      iso: 80
+      date: 1513781281
     - filename: JapanTrip2018-113.jpg
       width: 1440
       height: 1080
@@ -2803,16 +2793,6 @@
       shutter: 1/300
       iso: 40
       date: 1513872135
-    - filename: JapanTrip2018-127.jpg
-      width: 1080
-      height: 1440
-      camera: samsung SM-G950F
-      lens: Samsung Galaxy S8 Rear Camera
-      focal: 4.2
-      aperture: 1.7
-      shutter: 1/100
-      iso: 320
-      date: 1513889946
     - filename: JapanTrip2018-123.jpg
       width: 1440
       height: 1080
@@ -2843,3 +2823,858 @@
       shutter: 1/10
       iso: 400
       date: 1513968767
+    - filename: JapanTrip2018-126.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/20
+      iso: 250
+      date: 1513625596
+    - filename: JapanTrip2018-127.jpg
+      width: 1080
+      height: 1440
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/100
+      iso: 320
+      date: 1513889946
+2019-03-30-LT:
+  title: London Trip
+  date: '2019-03-30'
+  contents:
+    - filename: LondonTrip2019-1.jpg
+      width: 1080
+      height: 1920
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/4000
+      iso: 40
+      date: 1553940998
+    - filename: LondonTrip2019-2.jpg
+      width: 1080
+      height: 1920
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/1900
+      iso: 40
+      date: 1553943099
+    - filename: LondonTrip2019-3.jpg
+      width: 1080
+      height: 1920
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/2700
+      iso: 40
+      date: 1553944407
+    - filename: LondonTrip2019-4.jpg
+      width: 1440
+      height: 1080
+      camera: Panasonic DC-G9
+      lens: LEICA DG 12-60/F2.8-4.0
+      focal: 12
+      aperture: 3.2
+      shutter: 1/125
+      iso: 200
+      date: 1553970154
+    - filename: LondonTrip2019-5.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/50
+      iso: 125
+      date: 1553970386
+    - filename: LondonTrip2019-6.jpg
+      width: 1080
+      height: 1440
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/1300
+      iso: 40
+      date: 1554136770
+    - filename: LondonTrip2019-7.jpg
+      width: 1080
+      height: 1920
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/3800
+      iso: 40
+      date: 1553946462
+    - filename: LondonTrip2019-8.jpg
+      width: 1080
+      height: 1812
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/3600
+      iso: 40
+      date: 1553946508
+    - filename: LondonTrip2019-9.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/50
+      iso: 80
+      date: 1553970422
+    - filename: LondonTrip2019-10.jpg
+      width: 1080
+      height: 1440
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/11
+      iso: 200
+      date: 1553978542
+    - filename: LondonTrip2019-11.jpg
+      width: 1920
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/2500
+      iso: 40
+      date: 1553941130
+    - filename: LondonTrip2019-12.jpg
+      width: 1080
+      height: 1440
+      camera: Panasonic DC-G9
+      lens: LEICA DG 12-60/F2.8-4.0
+      focal: 40
+      aperture: 8
+      shutter: 1/800
+      iso: 200
+      date: 1553952141
+    - filename: LondonTrip2019-13.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/2200
+      iso: 40
+      date: 1554132254
+    - filename: LondonTrip2019-14.jpg
+      width: 1440
+      height: 1080
+      camera: Panasonic DC-G9
+      lens: LEICA DG 12-60/F2.8-4.0
+      focal: 44
+      aperture: 8
+      shutter: 1/800
+      iso: 200
+      date: 1553953652
+    - filename: LondonTrip2019-15.jpg
+      width: 1440
+      height: 1080
+      camera: Panasonic DC-G9
+      lens: LEICA DG 12-60/F2.8-4.0
+      focal: 42
+      aperture: 5.6
+      shutter: 1/400
+      iso: 200
+      date: 1553961362
+    - filename: LondonTrip2019-16.jpg
+      width: 1080
+      height: 1440
+      camera: Panasonic DC-G9
+      lens: LEICA DG 12-60/F2.8-4.0
+      focal: 12
+      aperture: 7.1
+      shutter: 1/640
+      iso: 200
+      date: 1553953824
+    - filename: LondonTrip2019-17.jpg
+      width: 1080
+      height: 1440
+      camera: Panasonic DC-G9
+      lens: LEICA DG 12-60/F2.8-4.0
+      focal: 42
+      aperture: 7.1
+      shutter: 1/500
+      iso: 200
+      date: 1553953374
+    - filename: LondonTrip2019-18.jpg
+      width: 1440
+      height: 1080
+      camera: Panasonic DC-G9
+      lens: LEICA DG 12-60/F2.8-4.0
+      focal: 56
+      aperture: 4.5
+      shutter: 1/320
+      iso: 200
+      date: 1553951986
+    - filename: LondonTrip2019-19.jpg
+      width: 1440
+      height: 1080
+      camera: Panasonic DC-G9
+      lens: LEICA DG 12-60/F2.8-4.0
+      focal: 52
+      aperture: 4
+      shutter: 1/125
+      iso: 640
+      date: 1553954778
+    - filename: LondonTrip2019-20.jpg
+      width: 1440
+      height: 1080
+      camera: Panasonic DC-G9
+      lens: LEICA DG 12-60/F2.8-4.0
+      focal: 12
+      aperture: 4
+      shutter: 1/200
+      iso: 200
+      date: 1553956026
+    - filename: LondonTrip2019-21.jpg
+      width: 1080
+      height: 1920
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/50
+      iso: 80
+      date: 1553942466
+    - filename: LondonTrip2019-22.jpg
+      width: 1080
+      height: 1440
+      camera: Panasonic DC-G9
+      lens: LEICA DG 12-60/F2.8-4.0
+      focal: 42
+      aperture: 3.9
+      shutter: 1/100
+      iso: 250
+      date: 1553954938
+    - filename: LondonTrip2019-23.jpg
+      width: 1440
+      height: 1080
+      camera: Panasonic DC-G9
+      lens: LEICA DG 12-60/F2.8-4.0
+      focal: 24
+      aperture: 3.5
+      shutter: 1/250
+      iso: 200
+      date: 1553955624
+    - filename: LondonTrip2019-24.jpg
+      width: 1440
+      height: 1080
+      camera: Panasonic DC-G9
+      lens: LEICA DG 12-60/F2.8-4.0
+      focal: 60
+      aperture: 6.3
+      shutter: 1/500
+      iso: 200
+      date: 1553955691
+    - filename: LondonTrip2019-25.jpg
+      width: 1440
+      height: 1080
+      camera: Panasonic DC-G9
+      lens: LEICA DG 12-60/F2.8-4.0
+      focal: 16
+      aperture: 3.1
+      shutter: 1/100
+      iso: 200
+      date: 1553956210
+    - filename: LondonTrip2019-26.jpg
+      width: 1080
+      height: 1920
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/390
+      iso: 40
+      date: 1553958654
+    - filename: LondonTrip2019-27.jpg
+      width: 1080
+      height: 1920
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/800
+      iso: 40
+      date: 1553962022
+    - filename: LondonTrip2019-28.jpg
+      width: 1440
+      height: 1080
+      camera: Panasonic DC-G9
+      lens: LEICA DG 12-60/F2.8-4.0
+      focal: 27
+      aperture: 8
+      shutter: 1/500
+      iso: 200
+      date: 1553958428
+    - filename: LondonTrip2019-29.jpg
+      width: 1920
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/1050
+      iso: 40
+      date: 1553959371
+    - filename: LondonTrip2019-30.jpg
+      width: 1440
+      height: 1080
+      camera: Panasonic DC-G9
+      lens: LEICA DG 12-60/F2.8-4.0
+      focal: 12
+      aperture: 4.5
+      shutter: 1/1250
+      iso: 200
+      date: 1553959452
+    - filename: LondonTrip2019-31.jpg
+      width: 1440
+      height: 1080
+      camera: Panasonic DC-G9
+      lens: LEICA DG 12-60/F2.8-4.0
+      focal: 40
+      aperture: 6.3
+      shutter: 1/400
+      iso: 200
+      date: 1553960143
+    - filename: LondonTrip2019-32.jpg
+      width: 1080
+      height: 1440
+      camera: Panasonic DC-G9
+      lens: LEICA DG 12-60/F2.8-4.0
+      focal: 27
+      aperture: 8
+      shutter: 1/400
+      iso: 200
+      date: 1553962108
+    - filename: LondonTrip2019-33.jpg
+      width: 1080
+      height: 1440
+      camera: Panasonic DC-G9
+      lens: LEICA DG 12-60/F2.8-4.0
+      focal: 19
+      aperture: 6.3
+      shutter: 1/320
+      iso: 200
+      date: 1553961033
+    - filename: LondonTrip2019-34.jpg
+      width: 1440
+      height: 1080
+      camera: Panasonic DC-G9
+      lens: LEICA DG 12-60/F2.8-4.0
+      focal: 32
+      aperture: 8
+      shutter: 1/500
+      iso: 200
+      date: 1553959520
+    - filename: LondonTrip2019-35.jpg
+      width: 1920
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/6000
+      iso: 40
+      date: 1553962278
+    - filename: LondonTrip2019-36.jpg
+      width: 1440
+      height: 1080
+      camera: Panasonic DC-G9
+      lens: LEICA DG 12-60/F2.8-4.0
+      focal: 14
+      aperture: 9
+      shutter: 1/800
+      iso: 200
+      date: 1553963624
+    - filename: LondonTrip2019-37.jpg
+      width: 1080
+      height: 1440
+      camera: Panasonic DC-G9
+      lens: LEICA DG 12-60/F2.8-4.0
+      focal: 60
+      aperture: 8
+      shutter: 1/1000
+      iso: 200
+      date: 1553963467
+    - filename: LondonTrip2019-38.jpg
+      width: 1080
+      height: 1440
+      camera: Panasonic DC-G9
+      lens: LEICA DG 12-60/F2.8-4.0
+      focal: 12
+      aperture: 4.5
+      shutter: 1/1000
+      iso: 200
+      date: 1553963907
+    - filename: LondonTrip2019-39.jpg
+      width: 1440
+      height: 1080
+      camera: Panasonic DC-G9
+      lens: LEICA DG 12-60/F2.8-4.0
+      focal: 32
+      aperture: 9
+      shutter: 1/640
+      iso: 200
+      date: 1553965258
+    - filename: LondonTrip2019-40.jpg
+      width: 1080
+      height: 1920
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/600
+      iso: 40
+      date: 1553965877
+    - filename: LondonTrip2019-41.jpg
+      width: 1920
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/680
+      iso: 40
+      date: 1553966206
+    - filename: LondonTrip2019-42.jpg
+      width: 1920
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/590
+      iso: 40
+      date: 1553966695
+    - filename: LondonTrip2019-43.jpg
+      width: 1080
+      height: 1920
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/310
+      iso: 40
+      date: 1553968463
+    - filename: LondonTrip2019-44.jpg
+      width: 1080
+      height: 1440
+      camera: Panasonic DC-G9
+      lens: LEICA DG 12-60/F2.8-4.0
+      focal: 24
+      aperture: 3.5
+      shutter: 1/125
+      iso: 1250
+      date: 1554038422
+    - filename: LondonTrip2019-45.jpg
+      width: 1080
+      height: 1440
+      camera: Panasonic DC-G9
+      lens: LEICA DG 12-60/F2.8-4.0
+      focal: 15
+      aperture: 3
+      shutter: 1/40
+      iso: 3200
+      date: 1554045684
+    - filename: LondonTrip2019-46.jpg
+      width: 1440
+      height: 1080
+      camera: Panasonic DC-G9
+      lens: LEICA DG 12-60/F2.8-4.0
+      focal: 60
+      aperture: 8
+      shutter: 1/800
+      iso: 200
+      date: 1554048068
+    - filename: LondonTrip2019-47.jpg
+      width: 1080
+      height: 1440
+      camera: Panasonic DC-G9
+      lens: LEICA DG 12-60/F2.8-4.0
+      focal: 25
+      aperture: 7.1
+      shutter: 1/500
+      iso: 200
+      date: 1554050237
+    - filename: LondonTrip2019-48.jpg
+      width: 1080
+      height: 1440
+      camera: Panasonic DC-G9
+      lens: LEICA DG 12-60/F2.8-4.0
+      focal: 28
+      aperture: 5
+      shutter: 1/640
+      iso: 200
+      date: 1554050781
+    - filename: LondonTrip2019-49.jpg
+      width: 1440
+      height: 1080
+      camera: Panasonic DC-G9
+      lens: LEICA DG 12-60/F2.8-4.0
+      focal: 25
+      aperture: 5
+      shutter: 1/250
+      iso: 200
+      date: 1554050947
+    - filename: LondonTrip2019-50.jpg
+      width: 1080
+      height: 1440
+      camera: Panasonic DC-G9
+      lens: LEICA DG 12-60/F2.8-4.0
+      focal: 29
+      aperture: 5.6
+      shutter: 1/250
+      iso: 200
+      date: 1554050993
+    - filename: LondonTrip2019-51.jpg
+      width: 1440
+      height: 1080
+      camera: Panasonic DC-G9
+      lens: LEICA DG 12-60/F2.8-4.0
+      focal: 12
+      aperture: 2.8
+      shutter: 1/200
+      iso: 200
+      date: 1554051399
+    - filename: LondonTrip2019-52.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/1700.0000000000002
+      iso: 40
+      date: 1554051377
+    - filename: LondonTrip2019-53.jpg
+      width: 1440
+      height: 1080
+      camera: Panasonic DC-G9
+      lens: LEICA DG 12-60/F2.8-4.0
+      focal: 60
+      aperture: 4
+      shutter: 1/800
+      iso: 200
+      date: 1554051534
+    - filename: LondonTrip2019-54.jpg
+      width: 1440
+      height: 1080
+      camera: Panasonic DC-G9
+      lens: LEICA DG 12-60/F2.8-4.0
+      focal: 60
+      aperture: 5.6
+      shutter: 1/500
+      iso: 200
+      date: 1554051614
+    - filename: LondonTrip2019-55.jpg
+      width: 1080
+      height: 1440
+      camera: Panasonic DC-G9
+      lens: LEICA DG 12-60/F2.8-4.0
+      focal: 19
+      aperture: 3.2
+      shutter: 1/500
+      iso: 200
+      date: 1554052169
+    - filename: LondonTrip2019-56.jpg
+      width: 1080
+      height: 1440
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/2300
+      iso: 40
+      date: 1554052558
+    - filename: LondonTrip2019-57.jpg
+      width: 1440
+      height: 1080
+      camera: Panasonic DC-G9
+      lens: LEICA DG 12-60/F2.8-4.0
+      focal: 12
+      aperture: 3.2
+      shutter: 1/2000
+      iso: 200
+      date: 1554052918
+    - filename: LondonTrip2019-58.jpg
+      width: 1080
+      height: 1440
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/800
+      iso: 40
+      date: 1554052907
+    - filename: LondonTrip2019-59.jpg
+      width: 1440
+      height: 1080
+      camera: Panasonic DC-G9
+      lens: LEICA DG 12-60/F2.8-4.0
+      focal: 60
+      aperture: 4
+      shutter: 1/640
+      iso: 200
+      date: 1554053373
+    - filename: LondonTrip2019-60.jpg
+      width: 1080
+      height: 1440
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/1200
+      iso: 40
+      date: 1554053414
+    - filename: LondonTrip2019-61.jpg
+      width: 1080
+      height: 1440
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/750
+      iso: 40
+      date: 1554053517
+    - filename: LondonTrip2019-62.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/1400
+      iso: 40
+      date: 1554053542
+    - filename: LondonTrip2019-63.jpg
+      width: 1440
+      height: 1080
+      camera: Panasonic DC-G9
+      lens: LEICA DG 12-60/F2.8-4.0
+      focal: 32
+      aperture: 3.8
+      shutter: 1/1000
+      iso: 200
+      date: 1554053575
+    - filename: LondonTrip2019-64.jpg
+      width: 1080
+      height: 1440
+      camera: Panasonic DC-G9
+      lens: LEICA DG 12-60/F2.8-4.0
+      focal: 38
+      aperture: 3.9
+      shutter: 1/500
+      iso: 200
+      date: 1554053680
+    - filename: LondonTrip2019-65.jpg
+      width: 1080
+      height: 1440
+      camera: Panasonic DC-G9
+      lens: LEICA DG 12-60/F2.8-4.0
+      focal: 20
+      aperture: 3.5
+      shutter: 1/640
+      iso: 200
+      date: 1554053829
+    - filename: LondonTrip2019-66.jpg
+      width: 1440
+      height: 1080
+      camera: Panasonic DC-G9
+      lens: LEICA DG 12-60/F2.8-4.0
+      focal: 12
+      aperture: 3.5
+      shutter: 1/500
+      iso: 200
+      date: 1554053914
+    - filename: LondonTrip2019-67.jpg
+      width: 1080
+      height: 1440
+      camera: Panasonic DC-G9
+      lens: LEICA DG 12-60/F2.8-4.0
+      focal: 60
+      aperture: 5.6
+      shutter: 1/500
+      iso: 200
+      date: 1554054762
+    - filename: LondonTrip2019-68.jpg
+      width: 1440
+      height: 1080
+      camera: Panasonic DC-G9
+      lens: LEICA DG 12-60/F2.8-4.0
+      focal: 36
+      aperture: 5.6
+      shutter: 1/250
+      iso: 200
+      date: 1554055286
+    - filename: LondonTrip2019-69.jpg
+      width: 1080
+      height: 1440
+      camera: Panasonic DC-G9
+      lens: LEICA DG 12-60/F2.8-4.0
+      focal: 18
+      aperture: 5
+      shutter: 1/250
+      iso: 200
+      date: 1554056150
+    - filename: LondonTrip2019-70.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/1100
+      iso: 40
+      date: 1554057585
+      hero: 1
+    - filename: LondonTrip2019-71.jpg
+      width: 1080
+      height: 1458
+      camera: Panasonic DC-G9
+      lens: LEICA DG 12-60/F2.8-4.0
+      focal: 14
+      aperture: 2.9
+      shutter: 1/60
+      iso: 400
+      date: 1554057964
+    - filename: LondonTrip2019-72.jpg
+      width: 1080
+      height: 1440
+      camera: Panasonic DC-G9
+      lens: LEICA DG 12-60/F2.8-4.0
+      focal: 56
+      aperture: 4
+      shutter: 1/125
+      iso: 800
+      date: 1554058544
+    - filename: LondonTrip2019-73.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/10
+      iso: 640
+      date: 1554065186
+    - filename: LondonTrip2019-74.jpg
+      width: 1080
+      height: 1620
+      camera: Panasonic DC-G9
+      lens: LEICA DG 12-60/F2.8-4.0
+      focal: 12
+      aperture: 2.8
+      shutter: 1/60
+      iso: 640
+      date: 1554114657
+    - filename: LondonTrip2019-75.jpg
+      width: 1620
+      height: 1080
+      camera: Panasonic DC-G9
+      lens: LEICA DG 12-60/F2.8-4.0
+      focal: 34
+      aperture: 3.8
+      shutter: 1/125
+      iso: 200
+      date: 1554115945
+    - filename: LondonTrip2019-76.jpg
+      width: 1080
+      height: 1620
+      camera: Panasonic DC-G9
+      lens: LEICA DG 12-60/F2.8-4.0
+      focal: 19
+      aperture: 6.3
+      shutter: 1/400
+      iso: 200
+      date: 1554115978
+    - filename: LondonTrip2019-77.jpg
+      width: 1080
+      height: 1440
+      camera: Panasonic DC-G9
+      lens: LEICA DG 12-60/F2.8-4.0
+      focal: 19
+      aperture: 3.2
+      shutter: 1/125
+      iso: 200
+      date: 1554118320
+    - filename: LondonTrip2019-78.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/1700.0000000000002
+      iso: 40
+      date: 1554123655
+    - filename: LondonTrip2019-79.jpg
+      width: 1440
+      height: 1080
+      camera: Panasonic DC-G9
+      lens: LEICA DG 12-60/F2.8-4.0
+      focal: 60
+      aperture: 7.1
+      shutter: 1/640
+      iso: 200
+      date: 1554123698
+    - filename: LondonTrip2019-80.jpg
+      width: 1440
+      height: 1080
+      camera: Panasonic DC-G9
+      lens: LEICA DG 12-60/F2.8-4.0
+      focal: 12
+      aperture: 5
+      shutter: 1/320
+      iso: 200
+      date: 1554124103
+    - filename: LondonTrip2019-81.jpg
+      width: 1440
+      height: 1080
+      camera: samsung SM-G950F
+      lens: Samsung Galaxy S8 Rear Camera
+      focal: 4.2
+      aperture: 1.7
+      shutter: 1/1150
+      iso: 40
+      date: 1554125246
+    - filename: LondonTrip2019-82.jpg
+      width: 1080
+      height: 1440
+      camera: Panasonic DC-G9
+      lens: LEICA DG 12-60/F2.8-4.0
+      focal: 40
+      aperture: 11
+      shutter: 1/1250
+      iso: 200
+      date: 1554129362
+    - filename: LondonTrip2019-83.jpg
+      width: 1080
+      height: 1440
+      camera: Panasonic DC-G9
+      lens: LEICA DG 12-60/F2.8-4.0
+      focal: 12
+      aperture: 5.6
+      shutter: 1/400
+      iso: 200
+      date: 1554129655

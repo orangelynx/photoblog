@@ -34,7 +34,8 @@
     "merge-stream": "^1.0.0",
     "photoswipe": "^4.1.1",
     "recursive-readdir-sync": "^1.0.6",
-    "run-sequence": "^1.2.2"
+    "run-sequence": "^1.2.2",
+    "natural-orderby": "^2.0.3"
   },
   "scripts": {
     "postinstall": "which gm || echo 'Please install GraphicsMagick (specifically, the gm command is needed for photo manipulation)'"

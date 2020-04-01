@@ -42,6 +42,7 @@ const imgsize = require('image-size');
 const merge = require('deepmerge');
 const mergeStream = require('merge-stream');
 const recursiveReadSync = require('recursive-readdir-sync');
+const orderBy = require('natural-orderby');
 const resize = require('gulp-image-resize');
 const rename = require('gulp-rename');
 const runSequence = require('run-sequence');
@@ -137,21 +138,9 @@ const walkPhotos = (path, index) => {
     };
   }
 
-  // Now sort all photos in each album by the date of the exposure instead
-  // of the name. We do this here because:
-  // - The existing index file (which has custom data) is already sorted
-  // - Sorted albums are arrays, not objects. So if the order here doesn't
-  //   match what's in the generated file, custom attributes will be applied
-  //   to the wrong image when merging (because arrays are indexed, not keyed).
-  //   ^^ @TODO: That'll fix most of the issue, but inserting/deleting within
-  //      an existing album will still cause attributes to shift. :(
   for (var album in index) {
     if (!index.hasOwnProperty(album)) { continue; }
-    index[album].contents = index[album].contents.sort((a, b) => {
-      if (a.date < b.date) { return -1; }
-      if (a.date > b.date) { return 1; }
-      return 0;
-    });
+    index[album].contents = orderBy.orderBy(index[album].contents, v => v.filename);
   }
 };
 
